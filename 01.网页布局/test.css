@@ -1,0 +1,17 @@
+div{
+    width: 500px;
+    height: 250px;
+    background: orange;
+}
+
+#header{
+    background: black;
+}
+
+#main{
+    background: red;
+}
+
+#footer{
+    background: yellow;
+}
