@@ -15,15 +15,15 @@ http://gaojianqi6.iteye.com/blog/1446651
 float:漂浮
 带float属性的div会漂浮起来
 不带float属性的普通div会贴在漂浮的div下面。
-![div并排显示](http://www.hiqiuyi.cn/Imgs/div_float.png)
+![div并排显示](http://www.hiqiuyi.cn/Imgs/html/div_float.png)
 
 #### 总结
 http://www.cnblogs.com/haodayikeshu/p/5215316.html
 
 #### 2-1.田字格的布局
-![div田字格](http://www.hiqiuyi.cn/Imgs/div_tian.png)
+![div田字格](http://www.hiqiuyi.cn/Imgs/html/div_tian.png)
 
 #### 2-2.div中的绝对路径和相对路径
-![css概括](http://www.hiqiuyi.cn/Imgs/css_sketch.jpg)
+![css概括](http://www.hiqiuyi.cn/Imgs/html/css_sketch.jpg)
 http://www.360doc.com/content/14/0320/17/8072791_362219842.shtml
 

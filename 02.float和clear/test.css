@@ -1,0 +1,19 @@
+#lside {
+    width: 200px;
+    height: 100px;
+    background: red;
+    float: left
+}
+
+#rside {
+    width: 200px;
+    height: 200px;
+    background: yellow;
+    float: right;
+}
+
+#comm {
+    height: 300px;
+    background: blue;
+    clear: both
+}
